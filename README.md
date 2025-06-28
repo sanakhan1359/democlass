@@ -1,2 +1,3 @@
 # democlass
-this is my git hub file
+this is my git hub repository
+author - sana khan 
